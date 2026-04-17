@@ -1,4 +1,7 @@
 # # 🔐 CodeAlpha - Detecting Data Leaks Using SQL Injection
+## 🏢 Internship Project - CodeAlpha
+
+This project was developed as part of the CodeAlpha internship program, focusing on building a secure cloud-based system to detect and prevent SQL injection attacks and data leaks.
 
 ## Overview
 
