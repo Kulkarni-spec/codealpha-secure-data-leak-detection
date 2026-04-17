@@ -1,0 +1,5 @@
+⚠️ SQL Injection Attempt:
+Username: chaits
+Password: 123 OR 1=1
+Time: 2026-04-16T08:30:20.377Z
+
